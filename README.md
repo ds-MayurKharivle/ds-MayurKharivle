@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ds-MayurKharivle
-- 👀 I’m interested in ...Python , R. , Tableau , My SQL , Machine Learning And Artificial Intelligence
-- 🌱 I’m currently learning ...Python and Data Science
-- 💞️ I’m looking to collaborate on ...Python , R. , My SQL and Tableau
+- 👋 Hi, I’m @MayurKharivle
+- 👀 I’m interested in ...Data Science , Machine Learning And Artificial Intelligence
+- 🌱 I’m currently learning ...Python , R. , My SQL , Tableau , Hadoop and SAS
+- 💞️ I’m looking to collaborate on ...Python , R. , My SQL , SAS and Tableau 
 - 📫 How to reach me ...gmail - mayurkharivle59@gmail.com
 
 <!---
